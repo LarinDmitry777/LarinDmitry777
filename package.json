@@ -1,0 +1,12 @@
+{
+  "name": "simple-file-bundler",
+  "version": "1.0.6",
+  "description": "Simplest file bundler",
+  "main": "src/simple-file-bundle.js",
+  "keywords": ["bundle", "simple"],
+  "author": "LarinDmitry777",
+  "license": "ISC",
+  "bin": {
+    "create-bundles": "./cli.js"
+  }
+}
